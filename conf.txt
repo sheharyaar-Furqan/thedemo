@@ -1,4 +1,15 @@
+<<<<<<< HEAD
+hello world
+
+
+
+
+
+
+this is new line from master
+=======
 this is new line from devvs
 hello world
 
 
+>>>>>>> dev
