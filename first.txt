@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+new changes
+=======
+>>>>>>> master
 world
 world
 

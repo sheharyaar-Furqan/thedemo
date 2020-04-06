@@ -1,6 +1,11 @@
+<<<<<<< HEAD
+new hello working
+hello
+=======
 working
 hello
 
 
 
 this is new line
+>>>>>>> master
